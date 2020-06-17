@@ -1,2 +1,2 @@
 another change in master
-hello world!
+hello world
